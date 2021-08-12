@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/local-mq.iml" filepath="$PROJECT_DIR$/local-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/local-mq-client/local-mq-client.iml" filepath="$PROJECT_DIR$/local-mq-client/local-mq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/local-mq-interfaces/local-mq-interfaces.iml" filepath="$PROJECT_DIR$/local-mq-interfaces/local-mq-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/local-mq-server/local-mq-server.iml" filepath="$PROJECT_DIR$/local-mq-server/local-mq-server.iml" />
+    </modules>
+  </component>
+</project>
